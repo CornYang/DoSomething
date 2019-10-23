@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\FeisIT\\Desktop\\新增資料夾 (2)\\DoSomething\\DoSomething\\DoSomething.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\FeisIT\\Desktop\\新增資料夾 (2)\\DoSomething\\DoSomething\\DoSomething.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\FeisIT\\Desktop\\新增資料夾 (2)\\DoSomething\\DoSomething\\DoSomething.csproj",
+        "projectName": "DoSomething",
+        "projectPath": "C:\\Users\\FeisIT\\Desktop\\新增資料夾 (2)\\DoSomething\\DoSomething\\DoSomething.csproj",
+        "packagesPath": "C:\\Users\\FeisIT\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\FeisIT\\Desktop\\新增資料夾 (2)\\DoSomething\\DoSomething\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\FeisIT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
