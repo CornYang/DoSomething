@@ -9,3 +9,14 @@ C:\Users\FeisIT\Desktop\新增資料夾 (2)\DoSomething\DoSomething\obj\Debug\ne
 C:\Users\FeisIT\Desktop\新增資料夾 (2)\DoSomething\DoSomething\obj\Debug\netcoreapp3.0\DoSomething.AssemblyInfo.cs
 C:\Users\FeisIT\Desktop\新增資料夾 (2)\DoSomething\DoSomething\obj\Debug\netcoreapp3.0\DoSomething.dll
 C:\Users\FeisIT\Desktop\新增資料夾 (2)\DoSomething\DoSomething\obj\Debug\netcoreapp3.0\DoSomething.pdb
+C:\Users\FeisIT\Desktop\C#_Basic\DoSomething\DoSomething\DoSomething\bin\Debug\netcoreapp3.0\DoSomething.exe
+C:\Users\FeisIT\Desktop\C#_Basic\DoSomething\DoSomething\DoSomething\bin\Debug\netcoreapp3.0\DoSomething.deps.json
+C:\Users\FeisIT\Desktop\C#_Basic\DoSomething\DoSomething\DoSomething\bin\Debug\netcoreapp3.0\DoSomething.runtimeconfig.json
+C:\Users\FeisIT\Desktop\C#_Basic\DoSomething\DoSomething\DoSomething\bin\Debug\netcoreapp3.0\DoSomething.runtimeconfig.dev.json
+C:\Users\FeisIT\Desktop\C#_Basic\DoSomething\DoSomething\DoSomething\bin\Debug\netcoreapp3.0\DoSomething.dll
+C:\Users\FeisIT\Desktop\C#_Basic\DoSomething\DoSomething\DoSomething\bin\Debug\netcoreapp3.0\DoSomething.pdb
+C:\Users\FeisIT\Desktop\C#_Basic\DoSomething\DoSomething\DoSomething\obj\Debug\netcoreapp3.0\DoSomething.csprojAssemblyReference.cache
+C:\Users\FeisIT\Desktop\C#_Basic\DoSomething\DoSomething\DoSomething\obj\Debug\netcoreapp3.0\DoSomething.AssemblyInfoInputs.cache
+C:\Users\FeisIT\Desktop\C#_Basic\DoSomething\DoSomething\DoSomething\obj\Debug\netcoreapp3.0\DoSomething.AssemblyInfo.cs
+C:\Users\FeisIT\Desktop\C#_Basic\DoSomething\DoSomething\DoSomething\obj\Debug\netcoreapp3.0\DoSomething.dll
+C:\Users\FeisIT\Desktop\C#_Basic\DoSomething\DoSomething\DoSomething\obj\Debug\netcoreapp3.0\DoSomething.pdb

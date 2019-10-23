@@ -6,5 +6,6 @@ namespace DoSomething
 {
     class FuncPractice
     {
+
     }
 }
