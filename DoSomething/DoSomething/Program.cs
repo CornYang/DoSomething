@@ -12,8 +12,11 @@ namespace DoSomething
             //DelegatePractice delegatePractice = new DelegatePractice();
             //delegatePractice.Demo01();
 
-            ActionPractice actionPractice = new ActionPractice();
-            actionPractice.Demo01();
+            //ActionPractice actionPractice = new ActionPractice();
+            //actionPractice.Demo01();
+
+            FuncPractice funcPractice = new FuncPractice();
+            funcPractice.Demo();
         }
     }
 }
