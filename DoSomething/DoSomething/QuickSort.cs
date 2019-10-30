@@ -1,24 +1,69 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
 using System.Text;
 using static System.Console;
 
 namespace DoSomething
 {
-    class QuickSort
+    public class QuickSort
     {
         public void Demo()
         {
 
-            List<int> list = new List<int>() { 12, 5, 34, 22, 9, 99, 51 };
-            List<int> newList = Sort(list);
+            List<int> lists = new List<int>() { 12, 5, 34, 22, 9, 99, 51 };
+            List<int> newList = Sort(lists);
 
             foreach(var item in newList)
             {
                 WriteLine(item);
             }
         }
+
+        public static void Demo02()
+        {
+            Func<List<int>, List<int>> newList = (List<int> list) => Sort(list);
+
+            List<int> lists = new List<int>() { 12, 5, 34, 22, 9, 99, 51 };
+
+            foreach (var item in newList(lists))
+            {
+                Write(item + " ");
+            }
+            WriteLine();
+        }
+
+        public static void Demo03(List<int> lists)
+        {
+            Func<List<int>, List<int>> newList = (List<int> list) => Sort(list);
+
+            foreach (var item in newList(lists))
+            {
+                Write(item + " ");
+            }
+            WriteLine();
+        }
+
+        public static void QuickSortDemo01(Action f)
+        {
+            var sw = new Stopwatch();
+            sw.Reset();
+            sw.Start();
+            f();
+            sw.Stop();
+            WriteLine($"快速排序法 總共花了: {sw.ElapsedMilliseconds} 毫秒");
+        }
+
+        //public static void QuickSortDemo02(Action f, List<int> list)
+        //{
+        //    var sw = new Stopwatch();
+        //    sw.Reset();
+        //    sw.Start();
+        //    f();
+        //    sw.Stop();
+        //    WriteLine($"快速排序法 總共花了: {sw.ElapsedMilliseconds} 毫秒");
+        //}
 
         public static List<int> Sort(List<int> list)
         {

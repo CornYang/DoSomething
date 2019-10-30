@@ -1,5 +1,7 @@
 ﻿using System;
+using System.Collections.Generic;
 using static System.Console;
+using static DoSomething.QuickSort;
 
 namespace DoSomething
 {
@@ -18,8 +20,12 @@ namespace DoSomething
             //FuncPractice funcPractice = new FuncPractice();
             //funcPractice.Demo();
 
-            QuickSort quickSort = new QuickSort();
-            quickSort.Demo();
+            //QuickSort quickSort = new QuickSort();
+            //quickSort.Demo02();
+
+            List<int> list = new List<int>() { 33, 4, 69, 1, 51, 100, 99, 13, 15, 56};
+            Action action = () => QuickSortDemo01(() => Demo03(list));
+            action();
         }
     }
 }
