@@ -15,8 +15,11 @@ namespace DoSomething
             //ActionPractice actionPractice = new ActionPractice();
             //actionPractice.Demo01();
 
-            FuncPractice funcPractice = new FuncPractice();
-            funcPractice.Demo();
+            //FuncPractice funcPractice = new FuncPractice();
+            //funcPractice.Demo();
+
+            QuickSort quickSort = new QuickSort();
+            quickSort.Demo();
         }
     }
 }
