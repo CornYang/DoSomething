@@ -15,8 +15,8 @@ C:\Users\FeisIT\Desktop\C#_Basic\DoSomething\DoSomething\DoSomething\bin\Debug\n
 C:\Users\FeisIT\Desktop\C#_Basic\DoSomething\DoSomething\DoSomething\bin\Debug\netcoreapp3.0\DoSomething.runtimeconfig.dev.json
 C:\Users\FeisIT\Desktop\C#_Basic\DoSomething\DoSomething\DoSomething\bin\Debug\netcoreapp3.0\DoSomething.dll
 C:\Users\FeisIT\Desktop\C#_Basic\DoSomething\DoSomething\DoSomething\bin\Debug\netcoreapp3.0\DoSomething.pdb
-C:\Users\FeisIT\Desktop\C#_Basic\DoSomething\DoSomething\DoSomething\obj\Debug\netcoreapp3.0\DoSomething.csprojAssemblyReference.cache
 C:\Users\FeisIT\Desktop\C#_Basic\DoSomething\DoSomething\DoSomething\obj\Debug\netcoreapp3.0\DoSomething.AssemblyInfoInputs.cache
 C:\Users\FeisIT\Desktop\C#_Basic\DoSomething\DoSomething\DoSomething\obj\Debug\netcoreapp3.0\DoSomething.AssemblyInfo.cs
 C:\Users\FeisIT\Desktop\C#_Basic\DoSomething\DoSomething\DoSomething\obj\Debug\netcoreapp3.0\DoSomething.dll
 C:\Users\FeisIT\Desktop\C#_Basic\DoSomething\DoSomething\DoSomething\obj\Debug\netcoreapp3.0\DoSomething.pdb
+C:\Users\FeisIT\Desktop\C#_Basic\DoSomething\DoSomething\DoSomething\obj\Debug\netcoreapp3.0\DoSomething.csprojAssemblyReference.cache

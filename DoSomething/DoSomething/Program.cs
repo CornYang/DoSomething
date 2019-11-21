@@ -11,6 +11,14 @@ namespace DoSomething
         {
             //WriteLine("Hello World!");
 
+            GetSetPractice getset = new GetSetPractice();
+            WriteLine(getset.TEST01);
+            getset.TEST01 = 200;
+            WriteLine(getset.TEST01);
+            WriteLine(getset.TEST02);
+            getset.TEST03 = 500;
+            WriteLine(getset.TEST02);
+
             //DelegatePractice delegatePractice = new DelegatePractice();
             //delegatePractice.Demo01();
 
@@ -23,9 +31,9 @@ namespace DoSomething
             //QuickSort quickSort = new QuickSort();
             //quickSort.Demo02();
 
-            List<int> list = new List<int>() { 33, 4, 69, 1, 51, 100, 99, 13, 15, 56};
-            Action action = () => QuickSortDemo01(() => Demo03(list));
-            action();
+            //List<int> list = new List<int>() { 85, 24 , 53 , 2 , 16};
+            //Action action = () => QuickSortDemo01(() => Demo03(list));
+            //action();
         }
     }
 }
