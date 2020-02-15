@@ -1,0 +1,2 @@
+如果要從MSSQL產生SQL的資料與Schema
+https://dotblogs.com.tw/mis2000lab/2015/12/25/sql_server_export_insert_azure

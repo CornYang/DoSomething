@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.0": []
   },
   "packageFolders": {
-    "C:\\Users\\FeisIT\\.nuget\\packages\\": {}
+    "C:\\Users\\FEISIT\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\FeisIT\\Desktop\\C#_Basic\\DoSomething\\DoSomething\\DoSomething\\DoSomething.csproj",
+      "projectUniqueName": "D:\\新增資料夾\\DoSomething\\DoSomething\\DoSomething\\DoSomething.csproj",
       "projectName": "DoSomething",
-      "projectPath": "C:\\Users\\FeisIT\\Desktop\\C#_Basic\\DoSomething\\DoSomething\\DoSomething\\DoSomething.csproj",
-      "packagesPath": "C:\\Users\\FeisIT\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\FeisIT\\Desktop\\C#_Basic\\DoSomething\\DoSomething\\DoSomething\\obj\\",
+      "projectPath": "D:\\新增資料夾\\DoSomething\\DoSomething\\DoSomething\\DoSomething.csproj",
+      "packagesPath": "C:\\Users\\FEISIT\\.nuget\\packages\\",
+      "outputPath": "D:\\新增資料夾\\DoSomething\\DoSomething\\DoSomething\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\FeisIT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\FEISIT\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -53,12 +53,30 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[3.0.1, 3.0.1]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[3.0.2, 3.0.2]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[3.0.0, 3.0.0]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[3.0.0, 3.0.0]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
