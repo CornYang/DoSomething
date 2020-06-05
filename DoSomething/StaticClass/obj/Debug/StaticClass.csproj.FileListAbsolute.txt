@@ -1,0 +1,7 @@
+D:\Code Practice\DoSomething\DoSomething\StaticClass\bin\Debug\StaticClass.exe.config
+D:\Code Practice\DoSomething\DoSomething\StaticClass\bin\Debug\StaticClass.exe
+D:\Code Practice\DoSomething\DoSomething\StaticClass\bin\Debug\StaticClass.pdb
+D:\Code Practice\DoSomething\DoSomething\StaticClass\obj\Debug\StaticClass.csprojAssemblyReference.cache
+D:\Code Practice\DoSomething\DoSomething\StaticClass\obj\Debug\StaticClass.csproj.CoreCompileInputs.cache
+D:\Code Practice\DoSomething\DoSomething\StaticClass\obj\Debug\StaticClass.exe
+D:\Code Practice\DoSomething\DoSomething\StaticClass\obj\Debug\StaticClass.pdb

@@ -20,3 +20,9 @@ C:\Users\FeisIT\Desktop\C#_Basic\DoSomething\DoSomething\DoSomething\obj\Debug\n
 C:\Users\FeisIT\Desktop\C#_Basic\DoSomething\DoSomething\DoSomething\obj\Debug\netcoreapp3.0\DoSomething.dll
 C:\Users\FeisIT\Desktop\C#_Basic\DoSomething\DoSomething\DoSomething\obj\Debug\netcoreapp3.0\DoSomething.pdb
 C:\Users\FeisIT\Desktop\C#_Basic\DoSomething\DoSomething\DoSomething\obj\Debug\netcoreapp3.0\DoSomething.csprojAssemblyReference.cache
+D:\Code Practice\DoSomething\DoSomething\DoSomething\obj\Debug\netcoreapp3.0\DoSomething.csprojAssemblyReference.cache
+D:\Code Practice\DoSomething\DoSomething\DoSomething\obj\Debug\netcoreapp3.0\DoSomething.AssemblyInfoInputs.cache
+D:\Code Practice\DoSomething\DoSomething\DoSomething\obj\Debug\netcoreapp3.0\DoSomething.AssemblyInfo.cs
+D:\Code Practice\DoSomething\DoSomething\DoSomething\obj\Debug\netcoreapp3.0\DoSomething.csproj.CoreCompileInputs.cache
+D:\Code Practice\DoSomething\DoSomething\DoSomething\obj\Debug\netcoreapp3.0\DoSomething.dll
+D:\Code Practice\DoSomething\DoSomething\DoSomething\obj\Debug\netcoreapp3.0\DoSomething.pdb
