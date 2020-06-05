@@ -36,10 +36,10 @@ namespace DoSomething
             //Action action = () => QuickSortDemo01(() => Demo03(list));
             //action();
 
-            TEST test = new TEST();
-            test.Content();
-            Interface.IOCTest ioctest = Interface.GetTEST.GetContent("TEST2");
-            ioctest.Content();
+            //TEST test = new TEST();
+            //test.Content();
+            //Interface.IOCTest ioctest = Interface.GetTEST.GetContent("TEST2");
+            //ioctest.Content();
         }
     }
 }
