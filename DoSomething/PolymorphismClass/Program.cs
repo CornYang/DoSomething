@@ -10,9 +10,9 @@ namespace PolymorphismClass
     {
         static void Main(string[] args)
         {
+            //當你new 子類別object ，並宣告為父類別，你會發現呼叫的方法居然是父類別的，而不是子類別(無法做到多型)
             Parent obj = new Child();
-            obj.Name = "Corn";
-            obj.print();
+
 
             Console.ReadKey();
         }
@@ -30,11 +30,6 @@ namespace PolymorphismClass
         {
 
         }
-    }
-
-    abstract class A
-    {
-        public abstract void BBB();
     }
 
     class Child : Parent
