@@ -1,0 +1,7 @@
+D:\Code Practice\DoSomething\DoSomething\PackageClass\bin\Debug\PackageClass.exe.config
+D:\Code Practice\DoSomething\DoSomething\PackageClass\bin\Debug\PackageClass.exe
+D:\Code Practice\DoSomething\DoSomething\PackageClass\bin\Debug\PackageClass.pdb
+D:\Code Practice\DoSomething\DoSomething\PackageClass\obj\Debug\PackageClass.csprojAssemblyReference.cache
+D:\Code Practice\DoSomething\DoSomething\PackageClass\obj\Debug\PackageClass.csproj.CoreCompileInputs.cache
+D:\Code Practice\DoSomething\DoSomething\PackageClass\obj\Debug\PackageClass.exe
+D:\Code Practice\DoSomething\DoSomething\PackageClass\obj\Debug\PackageClass.pdb

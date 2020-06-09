@@ -1,0 +1,7 @@
+D:\Code Practice\DoSomething\DoSomething\OverrideSample\bin\Debug\OverrideSample.exe.config
+D:\Code Practice\DoSomething\DoSomething\OverrideSample\bin\Debug\OverrideSample.exe
+D:\Code Practice\DoSomething\DoSomething\OverrideSample\bin\Debug\OverrideSample.pdb
+D:\Code Practice\DoSomething\DoSomething\OverrideSample\obj\Debug\OverrideSample.csprojAssemblyReference.cache
+D:\Code Practice\DoSomething\DoSomething\OverrideSample\obj\Debug\OverrideSample.csproj.CoreCompileInputs.cache
+D:\Code Practice\DoSomething\DoSomething\OverrideSample\obj\Debug\OverrideSample.exe
+D:\Code Practice\DoSomething\DoSomething\OverrideSample\obj\Debug\OverrideSample.pdb
