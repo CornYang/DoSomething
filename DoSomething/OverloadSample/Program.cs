@@ -18,7 +18,6 @@ namespace OverloadSample
             Console.WriteLine(p.R(5));
             Console.WriteLine(p.R(2.0));
 
-
             Console.ReadKey();
         }
 
@@ -31,7 +30,6 @@ namespace OverloadSample
         {
             return a + 5;
         }
-
         public bool R(double a)
         {
             return a > 5;
