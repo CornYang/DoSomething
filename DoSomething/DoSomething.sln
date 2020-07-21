@@ -19,6 +19,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnumSample", "EnumSample\En
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OverloadSample", "OverloadSample\OverloadSample.csproj", "{4B33CFA0-DC73-43CF-8571-E34E523375E6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StructureTrickySample", "StructureTrickySample\StructureTrickySample.csproj", "{917FD018-19E3-4E8B-91B5-FF0BC65F5275}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NullableSample", "NullableSample\NullableSample.csproj", "{442D4E48-5C01-4F04-A753-7093CCD52029}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +61,14 @@ Global
 		{4B33CFA0-DC73-43CF-8571-E34E523375E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4B33CFA0-DC73-43CF-8571-E34E523375E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4B33CFA0-DC73-43CF-8571-E34E523375E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{917FD018-19E3-4E8B-91B5-FF0BC65F5275}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{917FD018-19E3-4E8B-91B5-FF0BC65F5275}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{917FD018-19E3-4E8B-91B5-FF0BC65F5275}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{917FD018-19E3-4E8B-91B5-FF0BC65F5275}.Release|Any CPU.Build.0 = Release|Any CPU
+		{442D4E48-5C01-4F04-A753-7093CCD52029}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{442D4E48-5C01-4F04-A753-7093CCD52029}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{442D4E48-5C01-4F04-A753-7093CCD52029}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{442D4E48-5C01-4F04-A753-7093CCD52029}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

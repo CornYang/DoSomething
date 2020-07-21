@@ -1,0 +1,7 @@
+D:\Code Practice\DoSomething\DoSomething\StructureTrickySample\bin\Debug\StructureTrickySample.exe.config
+D:\Code Practice\DoSomething\DoSomething\StructureTrickySample\bin\Debug\StructureTrickySample.exe
+D:\Code Practice\DoSomething\DoSomething\StructureTrickySample\bin\Debug\StructureTrickySample.pdb
+D:\Code Practice\DoSomething\DoSomething\StructureTrickySample\obj\Debug\StructureTrickySample.csprojAssemblyReference.cache
+D:\Code Practice\DoSomething\DoSomething\StructureTrickySample\obj\Debug\StructureTrickySample.csproj.CoreCompileInputs.cache
+D:\Code Practice\DoSomething\DoSomething\StructureTrickySample\obj\Debug\StructureTrickySample.exe
+D:\Code Practice\DoSomething\DoSomething\StructureTrickySample\obj\Debug\StructureTrickySample.pdb
