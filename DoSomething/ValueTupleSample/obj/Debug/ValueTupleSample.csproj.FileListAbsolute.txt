@@ -1,0 +1,7 @@
+D:\Code Practice\DoSomething\DoSomething\ValueTupleSample\bin\Debug\ValueTupleSample.exe.config
+D:\Code Practice\DoSomething\DoSomething\ValueTupleSample\bin\Debug\ValueTupleSample.exe
+D:\Code Practice\DoSomething\DoSomething\ValueTupleSample\bin\Debug\ValueTupleSample.pdb
+D:\Code Practice\DoSomething\DoSomething\ValueTupleSample\obj\Debug\ValueTupleSample.csprojAssemblyReference.cache
+D:\Code Practice\DoSomething\DoSomething\ValueTupleSample\obj\Debug\ValueTupleSample.csproj.CoreCompileInputs.cache
+D:\Code Practice\DoSomething\DoSomething\ValueTupleSample\obj\Debug\ValueTupleSample.exe
+D:\Code Practice\DoSomething\DoSomething\ValueTupleSample\obj\Debug\ValueTupleSample.pdb
