@@ -17,6 +17,9 @@ namespace ValueTupleSample
             ReturnValueTuple();
             Console.WriteLine("-------------------------------------------------------------");
 
+            DeconstructSample.GetFunc();
+            
+
             Console.ReadKey();
         }
 
