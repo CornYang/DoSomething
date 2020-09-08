@@ -1,0 +1,7 @@
+D:\Code Practice\DoSomething\DoSomething\PropertySample\bin\Debug\PropertySample.exe.config
+D:\Code Practice\DoSomething\DoSomething\PropertySample\bin\Debug\PropertySample.exe
+D:\Code Practice\DoSomething\DoSomething\PropertySample\bin\Debug\PropertySample.pdb
+D:\Code Practice\DoSomething\DoSomething\PropertySample\obj\Debug\PropertySample.csprojAssemblyReference.cache
+D:\Code Practice\DoSomething\DoSomething\PropertySample\obj\Debug\PropertySample.csproj.CoreCompileInputs.cache
+D:\Code Practice\DoSomething\DoSomething\PropertySample\obj\Debug\PropertySample.exe
+D:\Code Practice\DoSomething\DoSomething\PropertySample\obj\Debug\PropertySample.pdb
