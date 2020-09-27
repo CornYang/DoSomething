@@ -1,0 +1,7 @@
+D:\Code Practice\DoSomething\DoSomething\FunctionParameterSample\bin\Debug\FunctionParameterSample.exe.config
+D:\Code Practice\DoSomething\DoSomething\FunctionParameterSample\bin\Debug\FunctionParameterSample.exe
+D:\Code Practice\DoSomething\DoSomething\FunctionParameterSample\bin\Debug\FunctionParameterSample.pdb
+D:\Code Practice\DoSomething\DoSomething\FunctionParameterSample\obj\Debug\FunctionParameterSample.csprojAssemblyReference.cache
+D:\Code Practice\DoSomething\DoSomething\FunctionParameterSample\obj\Debug\FunctionParameterSample.csproj.CoreCompileInputs.cache
+D:\Code Practice\DoSomething\DoSomething\FunctionParameterSample\obj\Debug\FunctionParameterSample.exe
+D:\Code Practice\DoSomething\DoSomething\FunctionParameterSample\obj\Debug\FunctionParameterSample.pdb
