@@ -40,6 +40,17 @@ namespace FunctionParameterSample
             Console.WriteLine(string.Format("r1 和 p 指向同實體 : {0}", (r1 == p)));
             ParaClass r2 = ChangeByRef(ref p);
             Console.WriteLine(string.Format("r2 和 p 指向同實體 : {0}", (r2 == p)));
+            Console.WriteLine("-----------------------------------------------------------------------");
+
+            int v1 = 0, v2; //ref 必須先將參數做初始化而out則不需要
+            var result = Function05(ref v1, out v2);
+            Console.WriteLine($"v1 為ref值 : {v1}  v2 為out值 : {v2}");
+            Console.WriteLine("-----------------------------------------------------------------------");
+
+            int v3 = 0, v4, v5 = 99;//ref & in 必須先將參數做初始化而out則不需要
+            var result02 = Function06(ref v3, out v4, in v5);
+            Console.WriteLine($"v3 為ref值 : {v3}  v4 為out值 : {v4}  v5 為in值 : {v5}");
+
             Console.ReadKey();
         }
 
@@ -103,7 +114,7 @@ namespace FunctionParameterSample
         //差別就是，如果你在函式內想new一個陣列給array(等於給array變數新的參考)，就會發現pass by value完全沒有改變，
         //因為array跟原本的arr完全沒有關係，而pass by reference就成功new了
         //http://davidhsu666.com/archives/c-sharp-call-by-value-and-call-by-reference-and-equals/
-
+        //https://dotblogs.com.tw/daniel/2018/02/26/150443
 
         private static ParaClass ChangeByValue(ParaClass p)
         {
@@ -115,6 +126,41 @@ namespace FunctionParameterSample
         {
             p = new ParaClass();
             return p;
+        }
+
+        /// <summary>
+        /// out 與 ref 都是以 By Reference 作為參數傳遞
+        /// ref 必須先將參數做初始化而out則不需要
+        /// out 一定要修改傳入的參數 而 ref 則不用
+        /// ref 需要在執行前初始化參數(給值) 而 out 是在程式結束前需要初始化參數(給值)
+        /// 參數宣告為 out 會強迫該方法實作內部一定要產生物件
+        /// https://dotblogs.com.tw/erictsaiblog/2015/05/10/151238
+        /// </summary>
+        /// <param name="val1"></param>
+        /// <param name="val2"></param>
+        /// <returns></returns>
+        private static (int, int) Function05(ref int val1, out int val2)
+        {
+            // out 一定要修改傳入的參數 而 ref 則不用
+            // 參數宣告為 out 會強迫該方法實作內部一定要產生物件
+            val2 = 5;
+            return (val1, val2);
+        }
+
+        /// <summary>
+        /// 參數宣告為 in 會強迫該方法內部無法變更參數內容值
+        /// </summary>
+        /// <param name="val1"></param>
+        /// <param name="val2"></param>
+        /// <param name="val3"></param>
+        /// <returns></returns>
+        private static (int, int, int) Function06(ref int val1, out int val2, in int val3)
+        {
+            // out 一定要修改傳入的參數 而 ref & in 則不用
+            // 參數宣告為 out 會強迫該方法實作內部一定要產生物件
+            val2 = 99;
+            //val3 = 0; //in 會強迫該方法內部無法變更參數內容值
+            return (val1, val2, val3);
         }
     }
 }
