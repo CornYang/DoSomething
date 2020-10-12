@@ -1,0 +1,7 @@
+D:\Code Practice\DoSomething\DoSomething\AbstractClass\bin\Debug\AbstractClass.exe.config
+D:\Code Practice\DoSomething\DoSomething\AbstractClass\bin\Debug\AbstractClass.exe
+D:\Code Practice\DoSomething\DoSomething\AbstractClass\bin\Debug\AbstractClass.pdb
+D:\Code Practice\DoSomething\DoSomething\AbstractClass\obj\Debug\AbstractClass.csprojAssemblyReference.cache
+D:\Code Practice\DoSomething\DoSomething\AbstractClass\obj\Debug\AbstractClass.csproj.CoreCompileInputs.cache
+D:\Code Practice\DoSomething\DoSomething\AbstractClass\obj\Debug\AbstractClass.exe
+D:\Code Practice\DoSomething\DoSomething\AbstractClass\obj\Debug\AbstractClass.pdb
