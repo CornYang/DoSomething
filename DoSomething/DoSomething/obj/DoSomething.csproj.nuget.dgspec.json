@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Code Practice\\DoSomething\\DoSomething\\DoSomething\\DoSomething.csproj": {}
+    "D:\\新增資料夾\\DoSomething\\DoSomething\\DoSomething\\DoSomething.csproj": {}
   },
   "projects": {
-    "D:\\Code Practice\\DoSomething\\DoSomething\\DoSomething\\DoSomething.csproj": {
+    "D:\\新增資料夾\\DoSomething\\DoSomething\\DoSomething\\DoSomething.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Code Practice\\DoSomething\\DoSomething\\DoSomething\\DoSomething.csproj",
+        "projectUniqueName": "D:\\新增資料夾\\DoSomething\\DoSomething\\DoSomething\\DoSomething.csproj",
         "projectName": "DoSomething",
-        "projectPath": "D:\\Code Practice\\DoSomething\\DoSomething\\DoSomething\\DoSomething.csproj",
+        "projectPath": "D:\\新增資料夾\\DoSomething\\DoSomething\\DoSomething\\DoSomething.csproj",
         "packagesPath": "C:\\Users\\Corn\\.nuget\\packages\\",
-        "outputPath": "D:\\Code Practice\\DoSomething\\DoSomething\\DoSomething\\obj\\",
+        "outputPath": "D:\\新增資料夾\\DoSomething\\DoSomething\\DoSomething\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Corn\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -70,7 +70,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

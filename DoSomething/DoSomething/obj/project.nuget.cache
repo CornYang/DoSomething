@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "h8wPCEjDjrTrS8UxmbKMGCAbwzW09Ctm9prFn4mHOgmL3KKUQZRolCMKi1eQSwHv5bKdP05PSwJPP7KknKaB9g==",
+  "dgSpecHash": "qcKxeAcvkq2nnf9z5m8ovIrNz3skUtAVb6ziOC4ieyWaHsm07LdkGB7oUOQjrDifk1jEjP6koWtbS6iybw5enw==",
   "success": true,
-  "projectFilePath": "D:\\Code Practice\\DoSomething\\DoSomething\\DoSomething\\DoSomething.csproj",
+  "projectFilePath": "D:\\新增資料夾\\DoSomething\\DoSomething\\DoSomething\\DoSomething.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Corn\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
     "C:\\Users\\Corn\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",

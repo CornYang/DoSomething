@@ -47,6 +47,13 @@ namespace AbstractClass
     {
         // abstract 方法只能存在於 abstract class(類別) 中
         //public abstract void Function01 { }
+
+        //virtual不一定只能存在抽象類別
+        //一般類別通常用virtual就是打算覆寫這方法，這樣些出來的方法比較彈性
+        public virtual void GetThing3()
+        {
+
+        }
     }
 
     public class Class01 : BaseClass

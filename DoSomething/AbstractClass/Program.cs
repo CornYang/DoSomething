@@ -22,6 +22,20 @@ namespace AbstractClass
             var r3 = class03.Add(0, 1);
             class03.GetThing();
 
+            Console.WriteLine("---------------------------------------------------------");
+
+            NewBaseClass n1 = new NewBaseClass();
+            n1.ShowSomething();
+            NewBaseClass02 n2 = new NewBaseClass02();
+            n2.ShowSomething();
+
+            NewBaseClass02 nn1 = new NewBaseClass02();
+            nn1.ShowThing();
+            NewBaseClass nn2 = nn1;
+            nn2.ShowThing();
+            NewBaseClass nn3 = new NewBaseClass02();
+            nn3.ShowThing();
+
             Console.ReadKey();
         }
     }
