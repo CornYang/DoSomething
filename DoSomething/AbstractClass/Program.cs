@@ -29,6 +29,11 @@ namespace AbstractClass
             NewBaseClass02 n2 = new NewBaseClass02();
             n2.ShowSomething();
 
+            NewBaseClass02 nb1 = new NewBaseClass02();
+            nb1.ShowSomething();
+            NewBaseClass nb2 = nb1;
+            nb2.ShowSomething();
+
             NewBaseClass02 nn1 = new NewBaseClass02();
             nn1.ShowThing();
             NewBaseClass nn2 = nn1;

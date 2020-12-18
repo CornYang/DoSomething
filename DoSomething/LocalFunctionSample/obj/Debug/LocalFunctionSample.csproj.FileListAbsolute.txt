@@ -1,0 +1,7 @@
+D:\Code Practice\DoSomething\DoSomething\LocalFunctionSample\bin\Debug\LocalFunctionSample.exe.config
+D:\Code Practice\DoSomething\DoSomething\LocalFunctionSample\bin\Debug\LocalFunctionSample.exe
+D:\Code Practice\DoSomething\DoSomething\LocalFunctionSample\bin\Debug\LocalFunctionSample.pdb
+D:\Code Practice\DoSomething\DoSomething\LocalFunctionSample\obj\Debug\LocalFunctionSample.csprojAssemblyReference.cache
+D:\Code Practice\DoSomething\DoSomething\LocalFunctionSample\obj\Debug\LocalFunctionSample.csproj.CoreCompileInputs.cache
+D:\Code Practice\DoSomething\DoSomething\LocalFunctionSample\obj\Debug\LocalFunctionSample.exe
+D:\Code Practice\DoSomething\DoSomething\LocalFunctionSample\obj\Debug\LocalFunctionSample.pdb
