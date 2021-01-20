@@ -1,0 +1,7 @@
+D:\Code Practice\DoSomething\DoSomething\DelegateSample\bin\Debug\DelegateSample.exe.config
+D:\Code Practice\DoSomething\DoSomething\DelegateSample\bin\Debug\DelegateSample.exe
+D:\Code Practice\DoSomething\DoSomething\DelegateSample\bin\Debug\DelegateSample.pdb
+D:\Code Practice\DoSomething\DoSomething\DelegateSample\obj\Debug\DelegateSample.csprojAssemblyReference.cache
+D:\Code Practice\DoSomething\DoSomething\DelegateSample\obj\Debug\DelegateSample.csproj.CoreCompileInputs.cache
+D:\Code Practice\DoSomething\DoSomething\DelegateSample\obj\Debug\DelegateSample.exe
+D:\Code Practice\DoSomething\DoSomething\DelegateSample\obj\Debug\DelegateSample.pdb
