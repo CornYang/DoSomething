@@ -1,0 +1,7 @@
+D:\Code Practice\DoSomething\DoSomething\LambdaSample\bin\Debug\LambdaSample.exe.config
+D:\Code Practice\DoSomething\DoSomething\LambdaSample\bin\Debug\LambdaSample.exe
+D:\Code Practice\DoSomething\DoSomething\LambdaSample\bin\Debug\LambdaSample.pdb
+D:\Code Practice\DoSomething\DoSomething\LambdaSample\obj\Debug\LambdaSample.csprojAssemblyReference.cache
+D:\Code Practice\DoSomething\DoSomething\LambdaSample\obj\Debug\LambdaSample.csproj.CoreCompileInputs.cache
+D:\Code Practice\DoSomething\DoSomething\LambdaSample\obj\Debug\LambdaSample.exe
+D:\Code Practice\DoSomething\DoSomething\LambdaSample\obj\Debug\LambdaSample.pdb

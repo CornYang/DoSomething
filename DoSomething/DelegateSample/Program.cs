@@ -13,6 +13,9 @@ namespace DelegateSample
             DelegateClass delegateClass = new DelegateClass();
             delegateClass.DisplayDelegate();
 
+            ActionClass actionClass = new ActionClass();
+            actionClass.Display();
+
             Console.ReadLine();
         }
     }
