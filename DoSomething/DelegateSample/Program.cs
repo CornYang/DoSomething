@@ -13,8 +13,17 @@ namespace DelegateSample
             DelegateClass delegateClass = new DelegateClass();
             delegateClass.DisplayDelegate();
 
+            Console.WriteLine("------------------------------------------------------------");
+
             ActionClass actionClass = new ActionClass();
             actionClass.Display();
+
+            Console.WriteLine("------------------------------------------------------------");
+
+            FuncClass funcClass = new FuncClass();
+            funcClass.Display();
+
+            Console.WriteLine("------------------------------------------------------------");
 
             Console.ReadLine();
         }

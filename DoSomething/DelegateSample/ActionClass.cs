@@ -14,7 +14,7 @@ namespace DelegateSample
         {
             Person p = new Person()
             {
-                Name = "David",
+                Name = "",
                 Age = 51
             };
 
