@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegateSample", "DelegateS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LambdaSample", "LambdaSample\LambdaSample.csproj", "{19B50055-5163-4F41-8519-B16FA7C06875}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstructorSample", "ConstructorSample\ConstructorSample.csproj", "{20EFB3FE-B487-463B-A0E5-4585508E7A31}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{19B50055-5163-4F41-8519-B16FA7C06875}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{19B50055-5163-4F41-8519-B16FA7C06875}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{19B50055-5163-4F41-8519-B16FA7C06875}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20EFB3FE-B487-463B-A0E5-4585508E7A31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20EFB3FE-B487-463B-A0E5-4585508E7A31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20EFB3FE-B487-463B-A0E5-4585508E7A31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20EFB3FE-B487-463B-A0E5-4585508E7A31}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

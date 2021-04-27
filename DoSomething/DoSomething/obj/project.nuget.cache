@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "h8wPCEjDjrTrS8UxmbKMGCAbwzW09Ctm9prFn4mHOgmL3KKUQZRolCMKi1eQSwHv5bKdP05PSwJPP7KknKaB9g==",
+  "dgSpecHash": "KWQvB9HdSKF1SLjXwnBp/q0N7Mj+dfsnsJXyl22lxgtBHFCnkNDp3xfxFZm8P4mZOft7XGSMBe+xG1Q0j1Uibw==",
   "success": true,
   "projectFilePath": "D:\\Code Practice\\DoSomething\\DoSomething\\DoSomething\\DoSomething.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Corn\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
-    "C:\\Users\\Corn\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
     "C:\\Users\\Corn\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
-    "C:\\Users\\Corn\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+    "C:\\Users\\Corn\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Corn\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Corn\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
   ],
   "logs": []
 }

@@ -31,7 +31,7 @@ namespace StaticClass
 
     //靜態類別裡面的方法必須也是靜態方法
     //靜態的使用主要好處就是專案在建立時，就會提供記憶體給靜態使用，並且不會釋放
-    //靜態使用本身不需要再繼承
+    //靜態使用本身不需要再繼承(一定密封的)
     static class Helper
     {
         public static int num = 5;

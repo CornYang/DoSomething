@@ -10,6 +10,7 @@ namespace AbstractClass
     ///  abstract 練習
     ///  只能用在抽象類別
     ///  方法不提供實作(抽象不需要寫內容，類似interface)， 非抽象衍生類別必須覆寫此方法
+    ///  但如果繼承抽象類別，子類別需實作(用override)
     ///  隱含 virtual
     /// </summary>
     public abstract class BaseClass
