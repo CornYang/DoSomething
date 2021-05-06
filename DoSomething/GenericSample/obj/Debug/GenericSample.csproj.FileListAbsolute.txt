@@ -1,0 +1,7 @@
+D:\Code Practice\DoSomething\DoSomething\GenericSample\bin\Debug\GenericSample.exe.config
+D:\Code Practice\DoSomething\DoSomething\GenericSample\bin\Debug\GenericSample.exe
+D:\Code Practice\DoSomething\DoSomething\GenericSample\bin\Debug\GenericSample.pdb
+D:\Code Practice\DoSomething\DoSomething\GenericSample\obj\Debug\GenericSample.csprojAssemblyReference.cache
+D:\Code Practice\DoSomething\DoSomething\GenericSample\obj\Debug\GenericSample.csproj.CoreCompileInputs.cache
+D:\Code Practice\DoSomething\DoSomething\GenericSample\obj\Debug\GenericSample.exe
+D:\Code Practice\DoSomething\DoSomething\GenericSample\obj\Debug\GenericSample.pdb

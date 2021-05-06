@@ -24,6 +24,12 @@ namespace StaticClass
             //若沒有使用靜態，必須先建立一個new object，在使用
             Helper3 helper = new Helper3();
             helper.GetString();
+            Console.WriteLine("-----------------------------------------------------------------");
+
+            //擴充方法
+            int bb = 5;
+            Console.WriteLine($"The Number is {bb.AddFive().ToString()}");
+            Console.WriteLine($"The Number is {bb.AddFive(5).ToString()}");
 
             Console.ReadKey();
         }
@@ -54,6 +60,12 @@ namespace StaticClass
         {
             return num;
         }
+
+        //靜態方法能多載但不能複寫
+        public static int GetNum(int a)
+        {
+            return num + a;
+        }
     }
 
     class Helper3
@@ -61,6 +73,14 @@ namespace StaticClass
         public void GetString()
         {
             Console.WriteLine("HelloWorld!");
+        }
+    }
+
+     class Helper4
+    {
+        static Helper4()
+        {
+            
         }
     }
 }

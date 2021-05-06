@@ -1,0 +1,7 @@
+D:\Code Practice\DoSomething\DoSomething\InterfaceSample\bin\Debug\InterfaceSample.exe.config
+D:\Code Practice\DoSomething\DoSomething\InterfaceSample\bin\Debug\InterfaceSample.exe
+D:\Code Practice\DoSomething\DoSomething\InterfaceSample\bin\Debug\InterfaceSample.pdb
+D:\Code Practice\DoSomething\DoSomething\InterfaceSample\obj\Debug\InterfaceSample.csprojAssemblyReference.cache
+D:\Code Practice\DoSomething\DoSomething\InterfaceSample\obj\Debug\InterfaceSample.csproj.CoreCompileInputs.cache
+D:\Code Practice\DoSomething\DoSomething\InterfaceSample\obj\Debug\InterfaceSample.exe
+D:\Code Practice\DoSomething\DoSomething\InterfaceSample\obj\Debug\InterfaceSample.pdb
