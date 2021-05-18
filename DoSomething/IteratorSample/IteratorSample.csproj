@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{43C918C0-F518-4CF0-B549-6AEE8D13C9AB}</ProjectGuid>
+    <ProjectGuid>{D26181F5-9CCF-47A9-B1B2-B0067DB11C38}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>GenericSample</RootNamespace>
-    <AssemblyName>GenericSample</AssemblyName>
+    <RootNamespace>IteratorSample</RootNamespace>
+    <AssemblyName>IteratorSample</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,8 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="GenericByCondition.cs" />
-    <Compile Include="GenericClass.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

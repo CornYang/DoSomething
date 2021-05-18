@@ -20,6 +20,16 @@ namespace GenericSample
             newClass.Display("Corn"); //執行個體裡面的方法，因為上面有先提供類型給個體知道，所以必須按照給的規定去執行方法，不能隨意改類型
             Console.WriteLine($"{newClass.GetValue("Helloword!!")}");
             Console.WriteLine($"{newClass.GetValueByFunc("Helloword Func!!")}");
+            Console.WriteLine("-------------------------------------------------------------------------------------");
+
+            GenericByCondition genericByCondition = new GenericByCondition();
+            Console.WriteLine($"{genericByCondition.Show<DateTimeOffset>(DateTimeOffset.Now).ToString()}");
+            Console.WriteLine($"{genericByCondition.Show2<string>("where generic condition is class")}");
+            Class01 c = new Class01();
+            genericByCondition.Show3<Class01>(c);
+
+            Class01 class01 = new Class01();
+            //Console.WriteLine($"{class01.AA()}");
 
             Console.ReadKey();
         }

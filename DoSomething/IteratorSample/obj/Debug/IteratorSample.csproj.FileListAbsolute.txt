@@ -1,0 +1,7 @@
+D:\Code Practice\DoSomething\DoSomething\IteratorSample\bin\Debug\IteratorSample.exe.config
+D:\Code Practice\DoSomething\DoSomething\IteratorSample\bin\Debug\IteratorSample.exe
+D:\Code Practice\DoSomething\DoSomething\IteratorSample\bin\Debug\IteratorSample.pdb
+D:\Code Practice\DoSomething\DoSomething\IteratorSample\obj\Debug\IteratorSample.csprojAssemblyReference.cache
+D:\Code Practice\DoSomething\DoSomething\IteratorSample\obj\Debug\IteratorSample.csproj.CoreCompileInputs.cache
+D:\Code Practice\DoSomething\DoSomething\IteratorSample\obj\Debug\IteratorSample.exe
+D:\Code Practice\DoSomething\DoSomething\IteratorSample\obj\Debug\IteratorSample.pdb
