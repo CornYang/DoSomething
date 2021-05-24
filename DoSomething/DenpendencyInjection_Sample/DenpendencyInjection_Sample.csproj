@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{B1DC6D84-264A-479E-90CC-425BEB2379E5}</ProjectGuid>
+    <ProjectGuid>{F8E6A020-9C70-4F6A-A9D2-56122F94727B}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>IOC_Sample</RootNamespace>
-    <AssemblyName>IOC_Sample</AssemblyName>
+    <RootNamespace>DenpendencyInjection_Sample</RootNamespace>
+    <AssemblyName>DenpendencyInjection_Sample</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,16 +43,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Ioc\IClient.cs" />
-    <Compile Include="Ioc\IShow.cs" />
-    <Compile Include="NoneIoc\NoIoc.cs" />
+    <Compile Include="ConstructorInjection.cs" />
+    <Compile Include="InterfaceInjection.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="TestClass.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

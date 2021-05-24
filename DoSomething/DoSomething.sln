@@ -47,6 +47,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IteratorSample", "IteratorS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IOC_Sample", "IOC_Sample\IOC_Sample.csproj", "{B1DC6D84-264A-479E-90CC-425BEB2379E5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DenpendencyInjection_Sample", "DenpendencyInjection_Sample\DenpendencyInjection_Sample.csproj", "{F8E6A020-9C70-4F6A-A9D2-56122F94727B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +143,10 @@ Global
 		{B1DC6D84-264A-479E-90CC-425BEB2379E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B1DC6D84-264A-479E-90CC-425BEB2379E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B1DC6D84-264A-479E-90CC-425BEB2379E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8E6A020-9C70-4F6A-A9D2-56122F94727B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8E6A020-9C70-4F6A-A9D2-56122F94727B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8E6A020-9C70-4F6A-A9D2-56122F94727B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8E6A020-9C70-4F6A-A9D2-56122F94727B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

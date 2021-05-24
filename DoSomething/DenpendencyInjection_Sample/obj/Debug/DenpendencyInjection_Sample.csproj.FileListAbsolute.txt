@@ -1,0 +1,7 @@
+D:\Code Practice\DoSomething\DoSomething\DenpendencyInjection_Sample\bin\Debug\DenpendencyInjection_Sample.exe.config
+D:\Code Practice\DoSomething\DoSomething\DenpendencyInjection_Sample\bin\Debug\DenpendencyInjection_Sample.exe
+D:\Code Practice\DoSomething\DoSomething\DenpendencyInjection_Sample\bin\Debug\DenpendencyInjection_Sample.pdb
+D:\Code Practice\DoSomething\DoSomething\DenpendencyInjection_Sample\obj\Debug\DenpendencyInjection_Sample.csprojAssemblyReference.cache
+D:\Code Practice\DoSomething\DoSomething\DenpendencyInjection_Sample\obj\Debug\DenpendencyInjection_Sample.csproj.CoreCompileInputs.cache
+D:\Code Practice\DoSomething\DoSomething\DenpendencyInjection_Sample\obj\Debug\DenpendencyInjection_Sample.exe
+D:\Code Practice\DoSomething\DoSomething\DenpendencyInjection_Sample\obj\Debug\DenpendencyInjection_Sample.pdb
